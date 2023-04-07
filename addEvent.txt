@@ -1,0 +1,11 @@
+function doGet(e) {
+  const p = e.parameter;
+  const title = p.title
+  const startTime = p.startTime
+  const endTime = p.endTime
+
+  const event = CalendarApp.getDefaultCalendar().createEvent(
+    title,
+    new Date(startTime),
+    new Date(endTime));
+}
