@@ -7,6 +7,7 @@ Longer description explaining the rationale/intent behind the project, what it's
 - [ ] go to https://script.google.com
 - [ ] copy paste the content of 'addEvent.txt' in a new script
 - [ ] get the "deployment ID" and paste it in the script
+- [ ] update the "host_permissions" key in the "manifest.json" with the url of your script !
 - [ ] add the new extension in chrome and you are good to go!
 - [ ] ~~Decided not to do this~~
 - [x] Done!

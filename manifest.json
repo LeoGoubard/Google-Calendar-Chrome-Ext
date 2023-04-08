@@ -4,7 +4,7 @@
   "manifest_version": 3,
   "description": "This is an extension",
   "host_permissions": [
-    "https://script.google.com/macros/library/d/1cIk3enRVT72IWEEgkw02_ed_YuR2g6STWHr9Z3VIFTjkpH9Ilm8YHvN4/1"
+    "https://script.google.com/macros/*"
   ],
   "action": {
     "default_title": "I am an Extension",
